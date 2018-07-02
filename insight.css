@@ -23,3 +23,6 @@ p.warn {
     padding-top: 0px;
     font-size: small;
 }
+p.GSXremind {
+    font-weight: bold;
+}
